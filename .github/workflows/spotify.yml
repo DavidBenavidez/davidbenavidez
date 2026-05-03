@@ -1,0 +1,30 @@
+name: top-albums
+
+on:
+  # schedule:
+  #   - cron: '2 0 * * *'
+  push: 
+    branches:
+      - spotify
+  # workflow_dispatch:
+
+jobs:
+  topalbums:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version: '1.23'
+          cache: true
+      - name: render top albums
+        shell: bash
+        run: go run ${{ github.workspace }}/.github/workflows/topalbums/topalbums.go
+      - name: commit changes
+        continue-on-error: true
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Update top albums" -a
+          git push origin HEAD:spotify2

@@ -28,6 +28,7 @@ Senior Software Engineer building backend systems and cloud infrastructure.
 
 <br>
 
-> last.fm recent top 5 records - refreshes every midnight
-<!-- lastfm -->
-<p align="left"><a href="https://www.last.fm/music/Geese/Getting+Killed"><img src="https://lastfm.freetls.fastly.net/i/u/64s/75695cd196406316f055a757728c6ee7.jpg" title="Geese - Getting Killed"></a> <a href="https://www.last.fm/music/Cameron+Winter/Heavy+Metal"><img src="https://lastfm.freetls.fastly.net/i/u/64s/ab895f0cb006d2741e7be50a5960f1f7.jpg" title="Cameron Winter - Heavy Metal"></a> <a href="https://www.last.fm/music/War+Child+Records/HELP(2)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/d5df09e663e4659046b3ba17028efdce.png" title="War Child Records - HELP(2)"></a> <a href="https://www.last.fm/music/Mitski/Nothing%27s+About+to+Happen+to+Me"><img src="https://lastfm.freetls.fastly.net/i/u/64s/533703e4b55217b70d9e9eb033000a2b.jpg" title="Mitski - Nothing's About to Happen to Me"></a> <a href="https://www.last.fm/music/Geese/3D+Country"><img src="https://lastfm.freetls.fastly.net/i/u/64s/cacb005926cc26320a5ff537288cc466.jpg" title="Geese - 3D Country"></a> </p>
+> Spotify recent top 5 records - refreshes every midnight
+<!-- spotify -->
+<p align="left"><a href="https://picsum.photos/seed/2286332200646954073-0"><img src="https://picsum.photos/seed/2286332200646954073-0/64/64" title="Black Country, New Road - Desire, I Want to Turn Into You"></a> <a href="https://picsum.photos/seed/8901248176168011027-1"><img src="https://picsum.photos/seed/8901248176168011027-1/64/64" title="MJ Lenderman - Desire, I Want to Turn Into You"></a> <a href="https://picsum.photos/seed/6922700991423700200-2"><img src="https://picsum.photos/seed/6922700991423700200-2/64/64" title="Waxahatchee - Tigers Blood"></a> <a href="https://picsum.photos/seed/1685512030602475885-3"><img src="https://picsum.photos/seed/1685512030602475885-3/64/64" title="Phoebe Bridgers - Punisher"></a> <a href="https://picsum.photos/seed/2933521460213993277-4"><img src="https://picsum.photos/seed/2933521460213993277-4/64/64" title="Black Country, New Road - Manning Fireworks"></a></p>
+<!-- /spotify -->
