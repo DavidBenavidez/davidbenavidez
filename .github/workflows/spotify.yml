@@ -19,7 +19,7 @@ jobs:
           cache: true
       - name: render top albums
         shell: bash
-        run: go run ${{ github.workspace }}/.github/workflows/topalbums/topalbums.go
+        run: go run ${{ github.workspace }}/.github/workflows/topalbums/main.go
       - name: commit changes
         continue-on-error: true
         run: |
