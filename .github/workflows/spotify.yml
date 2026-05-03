@@ -27,4 +27,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git add -A
           git commit -m "Update top albums" -a
-          git push origin HEAD:spotify2
+          git push origin HEAD:spotify2 -f
