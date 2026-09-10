@@ -31,9 +31,8 @@ jobs:
           git commit -m "Updated last.fm's weekly chart" -a
 
       - name: push changes
-        continue-on-error: true
         uses: ad-m/github-push-action@v0.6.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}\
-          branch: master
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref_name }}
           
