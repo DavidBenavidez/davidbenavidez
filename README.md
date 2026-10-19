@@ -17,7 +17,7 @@ Senior Software Engineer building backend systems and cloud infrastructure.
 
 - Building Golang microservices for real-time ad-serving and analytics at Venatus
 - Designing CI/CD pipelines and managing GKE infrastructure on GCP
-- CKAD & Clickhouse Certified
+- CKAD, GCP ACE, Clickhouse Certified
 
 ## Previously
 
